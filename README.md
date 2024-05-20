@@ -7,8 +7,7 @@ This project demonstrates the use of the TinyGPSPlus library with an ESP32 micro
 - Prints GPS information to the serial monitor every 10 seconds.
 - Detects and reports if no GPS signal is detected.
 
-
-![IMG_20240520_154921062~2](https://github.com/dejavu1987/esp32-s3-tiny-gps-plus/assets/1720245/f28fbae7-593f-469a-909e-481f6d8cc1cc)
+<img width="590" alt="Screenshot 2024-05-20 at 15 50 33" src="https://github.com/dejavu1987/esp32-s3-tiny-gps-plus/assets/1720245/f28fbae7-593f-469a-909e-481f6d8cc1cc">
 
 <img width="590" alt="Screenshot 2024-05-20 at 15 50 33" src="https://github.com/dejavu1987/esp32-s3-tiny-gps-plus/assets/1720245/7d6fc158-7f9e-443e-97d4-fea433663a2e">
 
@@ -46,7 +45,6 @@ If no GPS signal is detected, the code will print a message indicating that the 
 ## Additional Notes
 The baud rate of the GPS module can be adjusted in the code if needed.
 The interval for printing GPS information can be changed by modifying the interval variable.
-This example uses SoftwareSerial for communication with the GPS module. If your ESP32 has dedicated hardware serial ports, you can use those instead.
 
 ## Resources
 - TinyGPSPlus library: https://github.com/mikalhart/TinyGPSPlus
