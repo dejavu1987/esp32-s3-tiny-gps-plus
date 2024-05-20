@@ -7,6 +7,12 @@ This project demonstrates the use of the TinyGPSPlus library with an ESP32 micro
 - Prints GPS information to the serial monitor every 10 seconds.
 - Detects and reports if no GPS signal is detected.
 
+
+![IMG_20240520_154921062~2](https://github.com/dejavu1987/esp32-s3-tiny-gps-plus/assets/1720245/f28fbae7-593f-469a-909e-481f6d8cc1cc)
+
+<img width="590" alt="Screenshot 2024-05-20 at 15 50 33" src="https://github.com/dejavu1987/esp32-s3-tiny-gps-plus/assets/1720245/7d6fc158-7f9e-443e-97d4-fea433663a2e">
+
+
 ## Hardware Requirements
 - ESP32 microcontroller (e.g., ESP32-S3-DevKitC-1)
 - GPS module with 9600 baud rate (e.g., u-blox NEO-6M)
